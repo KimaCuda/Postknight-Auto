@@ -7,7 +7,7 @@ Created on Fri May 31 07:59:57 2019
 
 @author: fddot
 """
-version = 3.0
+version = 4.0
 
 import pyautogui as auto
 #from PIL import ImageGrab, ImageOps
